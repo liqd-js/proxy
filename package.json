@@ -1,7 +1,7 @@
 {
   "name": "@liqd-js/proxy",
   "description": "HTTP(S)/WS Proxy Server",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/proxy.js",
